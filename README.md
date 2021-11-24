@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/e4/c0/5e/e4c05eb49ef0da3191856f56c897bd1a.png" 
+width="230"  /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://7me.app/assets/images/logo.png" width="160"  /> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://iatec.carrd.co/assets/images/image01.jpg?v=0e99f41c" width="130"  /> 
+
+
 ## Geral 😏
 
 
