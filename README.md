@@ -84,7 +84,7 @@ Caso queira demostrar seus conhecimentos com Front-End Recomendamos:
 
 - Não conseguiu fazer tudo? sem problemas, entregue o que tem.
 - Gestão do seu tempo também é um fator importante
-- Nos queremos ver você usando as boas praticas com Git, então, evite commits muito grandes ou diretos na master... talvez pull requests
+- Nos queremos ver você usando as boas praticas com Git, então, evite commits muito grandes ou diretos na master... talvez usar pull requests 
 - Ficou com duvidas de algo? mande um email pra mim em paulo.flausino@iatec.com que logo logo eu respondo
 - Crie um arquivo "Readme" explicando como rodar a sua api e como fazer os testes
 
